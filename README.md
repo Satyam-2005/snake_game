@@ -16,4 +16,31 @@ Welcome to the classic **Snake Game**, recreated in Python using the **Pygame** 
 ---
 
 ## 📂 Project Structure
+SnakeGame/
+│
+├── resources/
+│ ├── apple.jpg # Apple texture
+│ ├── block.jpg # Snake block texture
+│ ├── background.jpg # Background image
+│ ├── bg_music_1.mp3 # Background music
+│ ├── crash.mp3 # Crash sound
+│ └── ding.mp3 # Apple eating sound
+│
+└── snake_game.py # Main game code
+
+yaml
+Copy
+Edit
+
+---
+
+## 🛠️ Requirements
+
+- Python 3.x
+- Pygame
+
+### Install Pygame
+
+```bash
+pip install pygame
 
